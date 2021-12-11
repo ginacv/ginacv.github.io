@@ -1,5 +1,5 @@
 ---
-title: "Twenty years too late” – our review of COP26"
+title: \"Twenty years too late\" – our review of COP26
 author: Gina Cortés Valderrama
 header:
   image: /assets/images/posts/2021/twenty_years_to_late/COP26-08-11-Annabelle-Avril-WECF-9.jpg
