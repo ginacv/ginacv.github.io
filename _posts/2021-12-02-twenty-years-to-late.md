@@ -5,9 +5,9 @@ header:
   image: /assets/images/posts/2021/twenty_years_to_late/COP26-08-11-Annabelle-Avril-WECF-9.jpg
   caption: "Photo credit: Annabelle Avril/WECF"
 tags:
-  - cop26
+  - UNFCCC COP
 categories:
-  - cop26
+  - UNFCCC COP
 show_date: true
 toc: true
 toc_label: "My Table of Contents"
